@@ -1,6 +1,6 @@
 # Temario de oposiciones de secundaria de matemáticas
 
-**Matemáticas divertidas**: Temario completo para las oposiciones al cuerpo de profesores de enseñanza secundaria en la especialidad de matemáticas en España.
+**Matemáticas divertidas**: Temario completo para las oposiciones al cuerpo de profesores de enseñanza secundaria en la especialidad de matemáticas en Andalucía.
 
 ## Acerca de
 
