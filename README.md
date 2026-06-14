@@ -122,7 +122,7 @@ temario-oposiciones/
 
 ## Licencia
 
-Este obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
+Este obra está bajo una [Licencia Creative Commons Atribution-ShareAlike 4.0 International][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
